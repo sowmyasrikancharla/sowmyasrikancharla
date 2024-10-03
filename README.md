@@ -59,11 +59,11 @@ Connect with me on LinkedIn, where I share insights, victories, and the occasion
 |---------|
 |<img src="https://res.cloudinary.com/dtdhmbtcg/image/upload/v1717315041/express_xnsbo0.png" title="Express" alt="Express" width="55" height="55"/>|
 
-### OS:
+<!--### OS:
 
 | Linux | Ubuntu | Windows |
 |-------|--------|---------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Linux" alt="Windows" width="55" height="55"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Linux" alt="Windows" width="55" height="55"/> |-->
 
 ### Development tools:
 | Git | GitHub | VS Code | Jupyter | Office 365 | Latex | 
