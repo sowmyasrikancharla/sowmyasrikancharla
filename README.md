@@ -35,40 +35,40 @@ Connect with me on LinkedIn, where I share insights, victories, and the occasion
 ## Working on: 🚀
 
 - Tweaking this README for optimal engagement 
-- [Portfolia](https://github.com/sowmyasrikancharla/sowmyasrikancharla/) 
+- [Portfolio](https://github.com/sowmyasrikancharla/sowmyasrikancharla/) 
 
 ## Languages and Tools 
 <div>
 
 ### Languages:
-| C | C++ | Python | JAVA | HTML | CSS | Sass | JS | PHP | 
-|---|-----|--------|------|------|-----|------|----|-----| 
-| <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" height="55" width="55" alt="C"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height="55" width="55" alt="C++"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="55" width="55" alt="python"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="55" width="55" alt="JAVA"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="55" width="55" alt="HTML"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="55" width="55" alt="CSS"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" height="55" width="55" alt="Sass"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="55" width="55" alt="JS"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" height="55" width="55" alt="PHP"/>  |  
+| C | C++ | Python | JAVA | HTML | CSS | JS |  
+|---|-----|--------|------|------|-----|----| 
+| <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" height="55" width="55" alt="C"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height="55" width="55" alt="C++"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="55" width="55" alt="python"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="55" width="55" alt="JAVA"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="55" width="55" alt="HTML"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="55" width="55" alt="CSS"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="55" width="55" alt="JS"/>  |   
 
   
 
 ### Front-End <span style="color:#32CD32;">Libraries<span/>/<span style="color:#4F7942;">Frameworks<span/>:
 
-| React | jQuery | Angular | Bootstrap | Tailwind |
-|-------|--------|---------|-----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React"  alt="React" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="jQuery"  alt="jQuery" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular"  alt="Angular" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap"  alt="Bootstrap" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS"  alt="Tailwind CSS" width="55" height="55"/>|
+| React | jQuery | Bootstrap | 
+|-------|--------|-----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React"  alt="React" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="jQuery"  alt="jQuery" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap"  alt="Bootstrap" width="55" height="55"/>|
 
 ### Back-End <span style="color:#32CD32;">Libraries<span/>/<span style="color:#4F7942;">Frameworks<span/>:
 
-| Express | Flask | Django | Laravel |
-|---------|-------|--------|---------|
-|<img src="https://res.cloudinary.com/dtdhmbtcg/image/upload/v1717315041/express_xnsbo0.png" title="Express" alt="Express" width="55" height="55"/>|<img src="https://res.cloudinary.com/dtdhmbtcg/image/upload/v1717315042/flask_ov94bq.png" title="Flask" alt="Flask" width="55" height="55"/>|<img src="https://res.cloudinary.com/dtdhmbtcg/image/upload/v1717315041/django_czkqax.png" title="Django" alt="Django" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="55" height="55"/>|
+| Express | 
+|---------|
+|<img src="https://res.cloudinary.com/dtdhmbtcg/image/upload/v1717315041/express_xnsbo0.png" title="Express" alt="Express" width="55" height="55"/>|
 
-### OS: ❤️ (linux one love)
+### OS:
 
 | Linux | Ubuntu | Windows |
 |-------|--------|---------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Linux" alt="Windows" width="55" height="55"/> |
 
 ### Development tools:
-| Git | GitHub | VS Code | Jupyter | Office 365 | Latex | Photoshop | Illustrator |
-|-----|--------|---------|---------|------------|-------|-----------|-------------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://res.cloudinary.com/dtdhmbtcg/image/upload/v1717315041/github-mark-white_ozjbrg.png" title="GitHub" alt="GitHub" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/>|<img src="https://res.cloudinary.com/dtdhmbtcg/image/upload/v1717313305/Microsoft_365__2022_.svg_lfzbte.png" title="office365" alt="office365" width="55" height="55"/>|<img src="https://res.cloudinary.com/dtdhmbtcg/image/upload/v1717315042/LaTeX_project_logo_bird.svg_wgfx2h.png" title="Latex" alt="Latex" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="photoshop" alt="photoshop" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="illustrator" alt="illustrator" width="55" height="55"/>|
+| Git | GitHub | VS Code | Jupyter | Office 365 | Latex | 
+|-----|--------|---------|---------|------------|-------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://res.cloudinary.com/dtdhmbtcg/image/upload/v1717315041/github-mark-white_ozjbrg.png" title="GitHub" alt="GitHub" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/>|<img src="https://res.cloudinary.com/dtdhmbtcg/image/upload/v1717313305/Microsoft_365__2022_.svg_lfzbte.png" title="office365" alt="office365" width="55" height="55"/>|<img src="https://res.cloudinary.com/dtdhmbtcg/image/upload/v1717315042/LaTeX_project_logo_bird.svg_wgfx2h.png" title="Latex" alt="Latex" width="55" height="55"/>|
 
 <!--
 
